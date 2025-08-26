@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f0f0f0;
+}
+canvas {
+  border: 1px solid #ccc;
+  background: #fff;
+}
+#chat {
+  width: 800px;
+  margin-top: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
